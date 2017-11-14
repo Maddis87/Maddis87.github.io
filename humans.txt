@@ -1,0 +1,11 @@
+
+/* AUTHOR */
+
+I who created the page is Madelene Amberman
+located in Kalmar, Sweden. 
+This site is a result of a school-project, 
+taking a class in clientbased webprogramming, Linneuniversitetet.
+
+/* THANKS */
+to our teachers, Johan Leitet and Mats Loock, who motivates Madelene
+and students in second grade who helps when the knowledgement fades.

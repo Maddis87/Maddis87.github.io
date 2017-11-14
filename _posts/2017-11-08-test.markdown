@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "I'm trying this!"
+date:   2017-11-08 14:42:50 +0100
+categories: jekyll update
+---
+Nu försöker jag göra en ny post för att kolla hur det fungerar!
+Mycket nytt att lära!!
