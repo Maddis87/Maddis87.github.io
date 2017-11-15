@@ -27,7 +27,7 @@
 	
  -webkit-text-fill-color: transparent;
  background: -webkit-linear-gradient(transparent, transparent),
-             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+ url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
  background: -o-linear-gradient(transparent, transparent);
  -webkit-background-clip: text;
  background-clip: text;
@@ -119,21 +119,29 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
-  background-color: silver;
+  padding: 0;
+  background-color: purple;
   margin-bottom: 0px;
+  text-align: center;
 
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-top: 10px;
+  margin-bottom: 0;
+  color: #2a7ae2;
 }
 
 .contact-list,
-.social-media-list {
+{
   list-style: none;
   margin-left: 0;
+
+  li {
+    display: inline;
+    margin-left: 20px;
+  }
 }
 
 

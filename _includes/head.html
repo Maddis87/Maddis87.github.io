@@ -5,6 +5,11 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  
+  <meta property="og:title" content="Madelene Amberman" />
+  <meta property="og:type" content="webbsite" />
+  <meta property="og:url" content="localhost:4000" />
+  <meta property="og:image" content="https://img0.etsystatic.com/183/0/14914567/il_340x270.1287266244_b1on.jpg" />
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
