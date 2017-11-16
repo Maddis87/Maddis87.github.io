@@ -1,3 +1,4 @@
 
 User-agent: *
-Disalow: /_includes/
+Disalow: /_includes/disqus_comments.html
+Disalow: /_includes/footer.html

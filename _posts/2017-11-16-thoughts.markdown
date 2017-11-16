@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Thoughts"
+date:   2017-11-16 10:45:00 +0100
+categories: questions
+---
+
+#### Precompiling css
+
+To be able to save every style code you repeat in a variable is awesome, not have to repeat myself, and
+if I want to change a color or size, I just have to do it in one place. Compared to regular CSS when I have to change in every place I've written the code.  
+
+
+* * * 
+#### Techniques
+
+Sass also comes with some more nifty features that makes it easier to not repeat yourself, like I meantioned earlier using variables, which I used in this project, I also used the nesting feature which made it easier to see the hierachy. I also used partials Sass files, with only a small snippet of style code, with a obviouse filename to locate what it styles so I don't have to search threw a very long CSS file to find what I'm looking for.
+
+* * * 
+#### Pros & cons
+
+ pros:  
+ * The structure with partials Sass files.
+ * Extra features like nesting, variables, extends and mixins that makes it easier to wright and reuse code.
+
+ cons:  
+ * Thanks to Jekyll I got the base allready setup and it was a little hard to find out how everything were linked and were to change to get the layout right.
+
+* * *
+
+#### Static Site Generator
+
+ Because this was a new technique for me i found it hard in the beginning to work it out, but once i started to get a hang of it I found it fun to jump among the different files and change a little here and there. It was nice to have the base set up, saved some time when I didn't have to build the site from scratch.
+
+* * *
+#### Suitable projects
+
+ The SSG I used, Jekyll, is good for blogs when it comes with base containing files for blogpost, but projects where the pages in the site need to look pretty much the same, when the maintenance need to be easy or you want to update your page frequently. And when you want a quick easy set up to begin with.
+
+* * *
+#### robots.txt and configuration
+
+ A robot.txt file is there to tell search engines and other webspiders what it is allowed to do on my site. It's good to have one even if it doesn't disallow anything because all the search engines works after a standard and ask for this file when it bumps in to your site. 
+ You confiqure it by telling what parts that is not allowed to be touched by the engine or spider.
+ I chose to disallow the parts with disqus-comments and the footer part, because the comments is not relevant to the site and my email is in the footer, I want to try to protect it from spam.
+
+* * *
+#### human.txt and configuration
+
+ Human.txt is a file that's made for humans to read, the site is for humans and if you wright a file for robots then you can wright a file for humans.
+ In the file you can wright about the author, why the sites excists and if there is any special thanks to someone.
+ I wrote some rows about me, and why this site is here and thanks to my techers that motivates me to do this!
+
+* * *
+#### Comments to blogposts
+
+ I did it simple and created an account on disqus and implemented there service to handle comments on your site, by copying a piece of code and paste it on to my template where i wanted it.
+
+* * *
+#### Open Graph
+
+ The open graph protocol works when someone share a website on for example socialmedia, it tells how this shared site should be treated and displayed in the flow.
+
+* * * 
+
+
+
+
+
+
+
+
+

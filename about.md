@@ -10,6 +10,7 @@ output: html_document
 I'm a mother of two kids, studying software engineering at Linnaeus University.  
 I live with my family in a small place called Grimhult, there are also some animals living
 with us, horses and cats.
+On my spare time, which I don't have a lot of right now I'm trying to spend with my kids or work around with my horses.
 
 
 
