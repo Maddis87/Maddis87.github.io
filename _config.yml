@@ -15,7 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Madelene Amberman
 email: madeleneamberman@gmail.com
-description: A website generated with ssg Jekyll, transformating simple text and several different templates into a complete, blog-aware, website. # this means to ignore newlines until "baseurl:"
+description: This is my awesome website I built as an assignment in a clientbased webbprogramming course.
+I've used the ssg Jekyll and done a page about me, one for blogging and soon my upcoming projects. Feel free to lookaround and 
+comment on a post or send me a hint by email. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Maddis87
