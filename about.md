@@ -6,7 +6,7 @@ permalink: /about/
 
 #### This is a little about me!
 
-![a picture of Madelene Amberman riding a machine horse](https://maddis87.github.io/assets/monteMaddis.jpg)
+![a picture of Madelene Amberman riding a machine horse](/assets/monteMaddis.JPG)
 
 I'm a mother of two kids, studying software engineering at Linnaeus University.  
 I live with my family in a small place called Grimhult, there are also some animals living
